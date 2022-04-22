@@ -4,7 +4,7 @@ To ensure that this code functions as intended:
 
 - Download all files into the same directory folder.
 - Comment out or change the function calls at the bottom of the script.  
-    - If the script is ran "as is" it will create all of the plots in the Figures folder.
+    - If the script is ran "as is" it will create all of the plots in the Figures.zip folder.
     - There are other functions in this script that are not currently being called.  See section 2. below
     
     
