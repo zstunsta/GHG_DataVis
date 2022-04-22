@@ -8,11 +8,11 @@ To ensure that this code functions as intended:
     - There are other functions in this script that are not currently being called.  See section 2. below
     
     
-- This script has three sections. 
+- This script was written with three sections in mind. 
  1. Import and clean data
  2. Use descriptive statistics to explore the datasets and explore distribution and outliers.
  3. Plot charts and visualizations to help compare data and search for patterns.
 
-
+- Future plans for this code are to create linear regression plots and to explore covariance between rice harvest estimates and Methane emisions.
 
 
