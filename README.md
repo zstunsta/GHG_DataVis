@@ -14,5 +14,4 @@ To ensure that this code functions as intended:
  3. Plot charts and visualizations to help compare data and search for patterns.
 
 - Future plans for this code are to create linear regression plots and to explore covariance between rice harvest estimates and Methane emisions.
-
-
+- Check OLS regression with results in ArcGIS.
