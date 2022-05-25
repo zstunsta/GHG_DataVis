@@ -31,6 +31,10 @@ dfEmis = dfEmis2.drop(23)
 dfHarv1 = dfHarv_0.drop(23)
 dfCH41 = dfCH4_0.drop(23)
 
+# Rename Columns
+dfHarv1.columns = dfHarv1.columns.str.replace('harvest_ha_', '')
+dfCH41.columns = dfCH41.columns.str.replace('tCH4_', '')
+
 # Remove ISO country code names.
 dfCH4 = dfCH41.iloc[:, 1:]
 dfHarv = dfHarv1.iloc[:, 1:]
